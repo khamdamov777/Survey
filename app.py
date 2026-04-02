@@ -11,7 +11,7 @@ questions = [
     {"q": "How often do you feel mentally exhausted after completing your daily activities?",
      "opts": [("Never",0),("Rarely",1),("Sometimes",2),("Often",3),("Always",4)]},
     {"q": "How frequently do you feel motivated to complete your academic tasks?",
-     "opts": [("Always,0),("Often",1),("Sometimes",2),("Rarely",3),("Never",4)]},
+     "opts": [("Always",0),("Often",1),("Sometimes",2),("Rarely",3),("Never",4)]},
     {"q": "How often do you lose focus while studying or working?",
      "opts": [("Never",0),("Rarely",1),("Sometimes",2),("Often",3),("Always",4)]},
     {"q": "How well do you manage your emotions during stressful situations?",
