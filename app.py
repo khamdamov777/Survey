@@ -37,7 +37,7 @@ questions = [
     {"q": "How often do you enjoy your daily routine?",
      "opts": [("Always",0),("Often",1),("Sometimes",2),("Rarely",3),("Never",4)]},
     {"q": "How often do you feel overwhelmed by your thoughts? ",
-     "opts": [("Never",0),("Rarely",1),("Sometimes",2),("Often",3),("Always",4)]}
+     "opts": [("Never",0),("Rarely",1),("Sometimes",2),("Often",3),("Always",4)]},
     {"q": "How often do you feel positive about your personal life?",
      "opts": [("Always",0),("Often",1),("Sometimes",2),("Rarely",3),("Always",4)]}
 
